@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jscin
+- 👀 I’m interested in Python, Java and Kotlin.
+- 🌱 I’m currently studying Computer Science and Engineering Technology
+- 📫 How to reach me: joshscina@gmail.com
